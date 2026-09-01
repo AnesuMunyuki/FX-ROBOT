@@ -1,1 +1,2 @@
 # FX-ROBOT
+# FOREX-ROBOT
